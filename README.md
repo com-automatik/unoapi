@@ -1,10 +1,15 @@
 <h2 align="center">Seja bem-vindo ao Guia do Chatwoot + UnoAPI 🚀</h2>
 </p>
-  
-<p style="display: flex; flex-direction: row; justify-content: center; align-items: center; align-content: center; ">
-<img src="https://whatsapp.com/favicon.ico" alt="WhatsAPP-logo" width="32" />
-<a href="https://chat.whatsapp.com/KOc9il7AdQVCG06fTmG3Uh" target="_blank">Grupo no Whatsapp</a>
-</p>
+
+
+<table align="center" style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+  <tr border="0">
+    <td valign="center" border="0"><img src="https://whatsapp.com/favicon.ico" alt="WhatsAPP-logo" width="32" /></td>
+    <td valign="center" border="0">
+      <a href="https://chat.whatsapp.com/KOc9il7AdQVCG06fTmG3Uh" target="_blank">Grupo no Whatsapp</a>
+    </td>
+  </tr>
+</table>
   
 <p align="center">
 <a href="https://github.com/clairton/unoapi-cloud" target="_blank">Repositório Original</a>
