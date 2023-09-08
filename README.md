@@ -1,5 +1,4 @@
-<p align="center">
-<p align="center">Seja bem-vindo ao Guia do Chatwoot + UnoAPI 🚀</p>
+<h2 align="center">Seja bem-vindo ao Guia do Chatwoot + UnoAPI 🚀</h2>
 </p>
   
 <p align="center">
@@ -7,7 +6,6 @@
 <a href="https://link.cwmkt.com.br/grupo-whats" target="_blank"><span>Grupo no Whatsapp</span></a>
 </p>
 
-<hr />
 <hr />
 
 <details>
